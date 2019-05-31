@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 html, body{
     color:rgb(233, 230, 233);
-    background: #444444;/*linear-gradient(#000 10%, #333 20%, #000 30%);*/
+    background: #2b2929;/*linear-gradient(#000 10%, #333 20%, #000 30%);*/
     background-size: 100% 50px;
 }
 app-root {
@@ -28,7 +28,7 @@ main {
 .search-input{
     height: 6rem !important;
     top:20px;
-    font-size: 6rem !important;
+    font-size: 1.5rem !important;
 }
 
 .page-footer{
